@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Js",
+      "desc": "Learn Js"
+    },
+    {
+      "title": "PHP",
+      "desc": "Learn PHP",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "model": "iphone",
+      "price": 700,
+      "color": "black"
+    },
+    {
+      "model": "Samsung",
+      "price": 450,
+      "color": "black",
+      "id": 2
+    }
+  ]
+}
